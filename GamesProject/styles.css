@@ -1,0 +1,19 @@
+.grid{
+  background-color: red;
+  display: flex;
+  flex-wrap: wrap;
+  height:300px;
+  width: 400px;
+}
+.box{
+  background-color: white;
+  display: block;
+  height:100px;
+  width: 100px;
+}
+.box2{
+  background-color: blue;
+  display: block;
+  height:100px;
+  width: 100px;
+}
